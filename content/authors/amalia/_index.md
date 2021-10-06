@@ -6,17 +6,19 @@ bio: null
 interests:
   - Functional Neuroimaging
   - Social Development
-  - Epigenetics 
-
+  - Epigenetics
 organizations:
   - name: University of Virginia
     url: ""
 education:
   education:
     courses:
-      - course: BS 
+      - course: BS
         institution: Wake Forest University
         year: 20??
+  courses:
+    - course: "Bachelors of Arts, Psychology "
+      institution: "Wake Forest University "
 email: socialneuroscience@virginia.edu
 superuser: true
 user_groups:
