@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Jamie Morris
+title: Andrew Graves
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor of Psychology
+role: Graduate Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Virginia
-  url: "jamiemorrisuva.com"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principle Investigator
+- Grad Students
 ---
 
-Jamie is the PI of the UVA Social Neuroscience Laboratory
+Andrew is a gradaute student in the UVA Social Neuroscience Laboratory
