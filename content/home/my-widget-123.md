@@ -12,4 +12,4 @@ design:
     image_darken: 0
     image: ""
 ---
-![](the-lawn-at-university-of-virginia.jpeg "Grounds")
+![]( "Grounds")
