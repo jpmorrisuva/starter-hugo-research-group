@@ -64,7 +64,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principle Investigator
+- Principal Investigator
 ---
 
 Jamie is the PI of the UVA Social Neuroscience Laboratory
