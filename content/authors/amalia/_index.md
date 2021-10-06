@@ -11,12 +11,8 @@ interests:
 organizations:
   - name: University of Virginia
     url: ""
-education:
-  education:
-    courses:
-      - course: BS 
-        institution: Wake Forest University
-        year: 20??
+education: Wake Forest University
+  education: Bachelors of Science
 email: socialneuroscience@virginia.edu
 superuser: true
 user_groups:
