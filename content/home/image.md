@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: coders.jpg
+    image: the-lawn-at-university-of-virginia.jpeg
     image_darken: 0
     image_parallax: false
     image_position: center
