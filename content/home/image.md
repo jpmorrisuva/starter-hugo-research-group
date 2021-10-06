@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: illustrations_for_morrislab_vcap.jpg
+    image: img_0036.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
