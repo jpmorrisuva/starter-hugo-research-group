@@ -1,7 +1,7 @@
 ---
 title: Andrew Graves
 role: Graduate Student
-avatar_filename: andrewgraves17.jpeg
+avatar_filename: avatar.jpeg
 bio: null
 interests:
   - Social Perception
