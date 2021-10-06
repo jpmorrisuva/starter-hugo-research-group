@@ -2,7 +2,7 @@
 widget: blank
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 30
 title: UVA Social Neuroscience
 active: true
 design:
