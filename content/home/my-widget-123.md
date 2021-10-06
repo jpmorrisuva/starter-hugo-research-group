@@ -10,6 +10,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: the-lawn-at-university-of-virginia.jpeg
+    image: ""
 ---
-Testing 1 2
+![](the-lawn-at-university-of-virginia.jpeg "Grounds")
