@@ -17,7 +17,7 @@ education:
         institution: Wake Forest University
         year: 20??
   courses:
-    - course: "Bachelors of Arts, Psychology "
+    - course: "BS, Psychology "
       institution: "Wake Forest University "
 email: socialneuroscience@virginia.edu
 superuser: true
