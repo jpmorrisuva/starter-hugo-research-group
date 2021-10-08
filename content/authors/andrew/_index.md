@@ -10,6 +10,7 @@ interests:
 organizations:
   - name: University of Virginia
     url: ""
+
 education:
  education:
   courses:
@@ -19,13 +20,7 @@ education:
   - course: MA
     institution: Appalachian State University 
     #year: 1997
-education:
-  education:
-  
-  courses:
-    - course: "BS, BA, MA"
-      institution: "Appalachian State University "
-       
+
 email: 
 superuser: true
 user_groups:
