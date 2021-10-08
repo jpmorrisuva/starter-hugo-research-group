@@ -22,7 +22,7 @@ education:
     - course: B.S., B.A.
       institution: "Appalachian State University "
 email: null
-superuser: true
+superuser: false
 user_groups:
   - Grad Students
 highlight_name: false
