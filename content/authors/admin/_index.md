@@ -37,7 +37,7 @@ education:
     - course: BA, Psychology
       institution: "University of Cincinnati "
 email: jpm5jb@virginia.edu
-superuser: true
+superuser: false
 user_groups:
   - Principal Investigator
 highlight_name: false
