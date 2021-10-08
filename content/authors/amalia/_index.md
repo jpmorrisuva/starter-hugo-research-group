@@ -11,13 +11,12 @@ organizations:
   - name: University of Virginia
     url: ""
 education:
-  education:
-  
+  education: null
   courses:
     - course: "BS, Psychology "
       institution: "Wake Forest University "
 email: socialneuroscience@virginia.edu
-superuser: true
+superuser: false
 user_groups:
   - Grad Students
 highlight_name: false
