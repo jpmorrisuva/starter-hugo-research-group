@@ -34,6 +34,8 @@ education:
   courses:
     - course: PhD, Biopsychology
       institution: "Stony Brook University "
+    - course: BA, Psychology
+      institution: "University of Cincinnati "
 email: jpm5jb@virginia.edu
 superuser: true
 user_groups:
