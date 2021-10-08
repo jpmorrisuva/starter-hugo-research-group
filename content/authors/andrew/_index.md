@@ -6,22 +6,22 @@ bio: null
 interests:
   - Data Science
   - Cognitive Neuroscience
-
 organizations:
   - name: University of Virginia
     url: ""
-
 education:
- education:
+  education:
+    courses:
+      - course: BS and BA
+        institution: Appalachian State University
+      - course: MA
+        institution: Appalachian State University
   courses:
-  - course: BS and BA
-    institution: Appalachian State University  
-   # year: 2003
-  - course: MA
-    institution: Appalachian State University 
-    #year: 1997
-
-email: 
+    - course: M.A., Psychology
+      institution: "Appalachian State University "
+    - course: B.S., B.A.
+      institution: "Appalachian State University "
+email: null
 superuser: true
 user_groups:
   - Grad Students
