@@ -1,6 +1,6 @@
 ---
 widget: blank
-headless: false
+headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
 title: Child Imaging at UVA
