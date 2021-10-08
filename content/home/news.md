@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
-headless: true
+headless: false
 weight: 50
 
 title: Latest News
