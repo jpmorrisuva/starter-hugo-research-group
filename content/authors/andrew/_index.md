@@ -11,6 +11,15 @@ organizations:
   - name: University of Virginia
     url: ""
 education:
+ education:
+  courses:
+  - course: BS and BA
+    institution: Appalachian State University  
+   # year: 2003
+  - course: MA
+    institution: Appalachian State University 
+    #year: 1997
+education:
   education:
   
   courses:
