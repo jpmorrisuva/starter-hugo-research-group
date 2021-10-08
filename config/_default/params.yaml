@@ -20,23 +20,16 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: 
+phone: 
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 
+  city: Charlottesville
+  region: VA
+  postcode: '22903'
   country: United States
   country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
@@ -54,12 +47,6 @@ main_menu:
   show_search: true
   highlight_active_link: false
 
-# Localization
-
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
-
 # Site features
 
 highlight: false
@@ -67,10 +54,10 @@ math: false
 diagram: false
 privacy_pack: false
 show_related:
-  post: true
-  project: true
-  publication: true
-  talk: true
+  post: false
+  project: false
+  publication: false
+  talk: false
 reading_time: true
 section_pager: false
 sharing: true
