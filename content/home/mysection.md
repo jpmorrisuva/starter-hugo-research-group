@@ -5,8 +5,9 @@ headless: true
 weight: 40
 title: Hello
 subtitle: null
+active: true
 design:
-  columns: "2"
+  columns: "1"
 ---
 The current and likely future focus of my laboratory is concerned with social brain development in preschool children. As children transition from preschool to school-age, they begin to acquire the ability to better understand the thoughts, intentions and actions of others and to experience complex social emotions. These social capabilities are predicated on the maturation of neural systems that are in-turn shaped by biological and environment factors. This developmental period is not only crucial for fostering and maintaining close social relationships, but is also associated with development of cognitive skills and overall school-readiness. My work with OXTRm and innovations in data analytics make this the ideal time to investigate social brain development in children. With funding from the UVa Brain Institute, we have collected a small longitudinal sample of preschool children and have generated promising preliminary results. I currently have two major grant proposals under review and expect these projects to be the primary focus of the lab for the next 5-10 years. 
 
