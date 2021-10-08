@@ -16,13 +16,13 @@ title: Hello
 subtitle:
 
 # Section design
-design:
+#design:
   # Use a 1-column layout
-  columns: "1"
+  #columns: "1"
   # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
+ # background:
+  #  color: 'navy'
+   # text_color_light: true
 ---
 
 Add any content to the body of the section here.
