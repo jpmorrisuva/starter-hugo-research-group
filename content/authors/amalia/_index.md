@@ -12,10 +12,7 @@ organizations:
     url: ""
 education:
   education:
-    courses:
-      - course: BS
-        institution: Wake Forest University
-        year: 20??
+  
   courses:
     - course: "BS, Psychology "
       institution: "Wake Forest University "

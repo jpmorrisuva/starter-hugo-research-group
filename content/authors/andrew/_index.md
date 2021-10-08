@@ -12,12 +12,10 @@ organizations:
     url: ""
 education:
   education:
-    courses:
-      - course: MA in Psychology
-        institution: Appalachian State
-        
-      - course: BA and BS 
-        institution: Appalachian State
+  
+  courses:
+    - course: "BS, BA, MA"
+      institution: "Appalachian State University "
        
 email: 
 superuser: true
