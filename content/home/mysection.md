@@ -680,8 +680,10 @@ The current and likely future focus of my laboratory is concerned with social br
 
 My lab has been federally funded since its inception in 2009. It will be noted that I have not received R01 funding from the NIH to support any of our projects, but instead we have relied on grants from the NSF. I wish to provide context to my record as it may otherwise be perceived to be a weakness. When I began as an independent investigator I was supported by an R00 Pathways to Independence grant from NIMH. As I completed the work in that grant, NIMH shifted focus from many of the cognitive neuroscience initiatives they had previously supported in favor of an RDoC framework that placed more emphasis on translational concepts. Moreover, grants focusing on specific genes involved in behavior were given lower preference in the RDoC framework. However, our recent shift to study developmental processes is directly in-line with funding priorities of NICDH, which is apparent given their enthusiasm for my prior student’s NRSA. I will also note that in the newly released NIH strategic plan, “Social Epigenomics” is listed as a key area of investment. This is an area that I have already made major contributions and one in which my lab continues to pursue new projects and collaborations. We currently have two R01 applications under review at NIH.
 
-<!--EndFragment-->
+
 
 ![](img_0036.jpg)
 
 ![]()
+
+<!--EndFragment-->
