@@ -13,7 +13,7 @@ design:
     image: img_0627.jpg
     image_darken: 0
     image_parallax: false
-    image_position: center
+    image_position: left
     image_size: left
     text_color_light: true
   spacing:
