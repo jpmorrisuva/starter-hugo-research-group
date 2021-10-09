@@ -11,10 +11,10 @@ design:
   columns: "2"
   background:
     image: img_0627.jpg
-    image_darken: 0
+    image_darken: 0.1
     image_parallax: false
-    image_position: left
-    image_size: left
+    image_position: center
+    image_size: cover
     text_color_light: true
   spacing:
     padding:
